@@ -1,14 +1,15 @@
-/kubectl      https://github.com/chadmcrowell/k8s-up-and-running/tree/main/kubectl
-/powershell   https://github.com/chadmcrowell/k8s-up-and-running/tree/main/powershell
-/azurecli     https://github.com/chadmcrowell/k8s-up-and-running/tree/main/azurecli
-/bicep        https://github.com/chadmcrowell/k8s-up-and-running/tree/main/bicep
-/terraform    https://github.com/chadmcrowell/k8s-up-and-running/tree/main/terraform
-/youtube      https://youtube.com
-/foo          https://example.com/foo
-/example      https://example.com
-/github       https://github.com/chadmcrowell
-/twitter      https://twitter.com/chadmcrowell
+/custom-nginx   https://https://raw.githubusercontent.com/chadmcrowell/k8s-from-scratch/main/week1/nginx-create-image.sh
+/kubectl        https://github.com/chadmcrowell/k8s-up-and-running/tree/main/kubectl
+/powershell     https://github.com/chadmcrowell/k8s-up-and-running/tree/main/powershell
+/azurecli       https://github.com/chadmcrowell/k8s-up-and-running/tree/main/azurecli
+/bicep          https://github.com/chadmcrowell/k8s-up-and-running/tree/main/bicep
+/terraform      https://github.com/chadmcrowell/k8s-up-and-running/tree/main/terraform
+/youtube        https://youtube.com
+/foo            https://example.com/foo
+/example        https://example.com
+/github         https://github.com/chadmcrowell
+/twitter        https://twitter.com/chadmcrowell
 
 
 #fallback
-/*            https://github.com/chadmcrowell/k8s-up-and-running
+/*              https://github.com/chadmcrowell/k8s-up-and-running
