@@ -1,3 +1,4 @@
+/manifests      https://github.com/chadmcrowell/k8s-from-scratch/tree/main/week1/manifests
 /pki            https://kubernetes.io/docs/setup/best-practices/certificates/
 /k8s-nginx      https://raw.githubusercontent.com/chadmcrowell/k8s-from-scratch/main/week1/nginx-run-custom-image.sh
 /custom-nginx   https://raw.githubusercontent.com/chadmcrowell/k8s-from-scratch/main/week1/nginx-create-image.sh
