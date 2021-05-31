@@ -1,3 +1,4 @@
+/svc-ghost      https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week2/manifests/svc-ghost.yml
 /deploy-ghost   https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week2/manifests/deploy-ghost.yml
 /pvc-ghost      https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week2/manifests/pvc-ghost.yml
 /pv-ghost       https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week2/manifests/pv-ghost.yml
