@@ -1,3 +1,4 @@
+/packet            https://youtu.be/0Omvgd7Hg1I
 /deploy-frontend   https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week2/deploy-frontend.yml
 /deploy-mongodb    https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week2/deploy-mongodb.yml
 /svc-ghost         https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week2/manifests/svc-ghost.yml
