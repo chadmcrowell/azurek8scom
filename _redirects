@@ -1,3 +1,4 @@
+/kubectl-win       https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/#install-kubectl-binary-with-curl-on-windows
 /crd               https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#customresourcedefinitions
 /secret-volume     https://kubernetes.io/docs/concepts/configuration/secret/#using-secrets-as-files-from-a-pod
 /configmap         https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/
