@@ -1,3 +1,4 @@
+/cluster-issuer    https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week3/manifests/cluster-issuer.yml
 /openssl           https://slproweb.com/products/Win32OpenSSL.html
 /kubectl-win       https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/#install-kubectl-binary-with-curl-on-windows
 /crd               https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#customresourcedefinitions
