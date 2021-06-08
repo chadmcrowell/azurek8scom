@@ -1,3 +1,4 @@
+/week3-manifests     https://github.com/chadmcrowell/k8s-from-scratch/tree/main/week3/manifests
 /ingress-configmap   https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/configmap/
 /ingress-tls         https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week3/manifests/ingress-nginx-annotate.yml
 /cert                https://github.com/chadmcrowell/k8s-from-scratch/blob/main/week3/manifests/cert-from-clusterissuer.yml
