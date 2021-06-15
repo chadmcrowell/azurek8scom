@@ -1,3 +1,4 @@
+/monitor               https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-overview
 /backup                https://docs.microsoft.com/en-us/azure/aks/aks-migration
 /storage               https://docs.microsoft.com/en-us/azure/aks/concepts-storage
 /acig                  https://docs.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview
