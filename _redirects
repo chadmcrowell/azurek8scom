@@ -1,3 +1,4 @@
+/policy                https://docs.microsoft.com/en-us/azure/aks/use-azure-policy
 /network               https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni
 /virtual-nodes         https://docs.microsoft.com/en-us/azure/aks/virtual-nodes
 /node-pools            https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools
