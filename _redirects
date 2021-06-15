@@ -1,3 +1,4 @@
+/storage               https://docs.microsoft.com/en-us/azure/aks/concepts-storage
 /acig                  https://docs.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview
 /azure-lb              https://docs.microsoft.com/en-us/azure/aks/load-balancer-standard#configure-the-public-standard-load-balancer
 /policy                https://docs.microsoft.com/en-us/azure/aks/use-network-policies
