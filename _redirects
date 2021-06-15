@@ -1,3 +1,4 @@
+/identity              https://docs.microsoft.com/en-us/azure/aks/use-managed-identity
 /ingress-controllers   https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 /week3-manifests       https://github.com/chadmcrowell/k8s-from-scratch/tree/main/week3/manifests
 /ingress-configmap     https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/configmap/
