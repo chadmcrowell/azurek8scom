@@ -1,3 +1,4 @@
+/users                 https://kubernetes.io/docs/reference/access-authn-authz/authentication/
 /webhook-auth          https://kubernetes.io/docs/reference/access-authn-authz/authentication/#webhook-token-authentication
 /azure-k8s-rbac        https://docs.microsoft.com/en-us/azure/aks/concepts-identity#azure-role-based-access-control
 /monitor               https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-overview
