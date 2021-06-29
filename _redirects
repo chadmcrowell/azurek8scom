@@ -1,3 +1,4 @@
+/authorized-ips           https://docs.microsoft.com/en-us/azure/aks/api-server-authorized-ip-ranges
 /private-aks              https://docs.microsoft.com/en-us/azure/aks/private-clusters
 /private-cluster          https://docs.microsoft.com/en-us/azure/aks/private-clusters
 /bindings                 https://docs.microsoft.com/en-us/azure/aks/concepts-identity#rolebindings-and-clusterrolebindings
