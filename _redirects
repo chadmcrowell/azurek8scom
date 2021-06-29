@@ -1,3 +1,4 @@
+/kubenet                   https://docs.microsoft.com/en-us/azure/aks/configure-kubenet
 /azure-cni                 https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni
 /defender-for-containers   https://docs.microsoft.com/en-us/azure/security-center/defender-for-container-registries-introduction
 /vm-isolation              https://docs.microsoft.com/en-us/azure/virtual-machines/isolation
