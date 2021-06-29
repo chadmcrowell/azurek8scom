@@ -1,3 +1,4 @@
+/node-pool-upgrade        https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools#upgrade-a-node-pool
 /node-image-upgrade       https://docs.microsoft.com/en-us/azure/aks/node-image-upgrade
 /upgrade                  https://docs.microsoft.com/en-us/azure/aks/upgrade-cluster
 /limit-egress             https://docs.microsoft.com/en-us/azure/aks/limit-egress-traffic
