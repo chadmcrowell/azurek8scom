@@ -1,3 +1,4 @@
+/aad-pod-identity          https://docs.microsoft.com/en-us/azure/aks/use-azure-ad-pod-identity
 /azure-policy              https://docs.microsoft.com/en-us/azure/aks/use-azure-policy
 /network-policies          https://docs.microsoft.com/en-us/azure/aks/use-network-policies
 /kubenet                   https://docs.microsoft.com/en-us/azure/aks/configure-kubenet
