@@ -1,3 +1,4 @@
+/azure-cni                 https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni
 /defender-for-containers   https://docs.microsoft.com/en-us/azure/security-center/defender-for-container-registries-introduction
 /vm-isolation              https://docs.microsoft.com/en-us/azure/virtual-machines/isolation
 /IMDS                      https://docs.microsoft.com/en-us/azure/virtual-machines/linux/instance-metadata-service?tabs=linux
