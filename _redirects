@@ -1,3 +1,4 @@
+/conditional-access       https://docs.microsoft.com/en-us/azure/aks/managed-aad#use-conditional-access-with-azure-ad-and-aks
 /disable-local            https://docs.microsoft.com/en-us/azure/aks/managed-aad#disable-local-accounts-preview
 /authorized-ips           https://docs.microsoft.com/en-us/azure/aks/api-server-authorized-ip-ranges
 /private-aks              https://docs.microsoft.com/en-us/azure/aks/private-clusters
