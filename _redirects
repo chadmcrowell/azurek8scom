@@ -1,3 +1,4 @@
+/azure-policy              https://docs.microsoft.com/en-us/azure/aks/use-azure-policy
 /network-policies          https://docs.microsoft.com/en-us/azure/aks/use-network-policies
 /kubenet                   https://docs.microsoft.com/en-us/azure/aks/configure-kubenet
 /azure-cni                 https://docs.microsoft.com/en-us/azure/aks/configure-azure-cni
