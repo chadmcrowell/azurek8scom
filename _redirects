@@ -1,3 +1,4 @@
+/upgrade                  https://docs.microsoft.com/en-us/azure/aks/upgrade-cluster
 /limit-egress             https://docs.microsoft.com/en-us/azure/aks/limit-egress-traffic
 /http-app-routing         https://docs.microsoft.com/en-us/azure/aks/http-application-routing
 /JIT                      https://docs.microsoft.com/en-us/azure/aks/managed-aad#configure-just-in-time-cluster-access-with-azure-ad-and-aks
