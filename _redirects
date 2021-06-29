@@ -1,3 +1,4 @@
+/private-aks              https://docs.microsoft.com/en-us/azure/aks/private-clusters
 /private-cluster          https://docs.microsoft.com/en-us/azure/aks/private-clusters
 /bindings                 https://docs.microsoft.com/en-us/azure/aks/concepts-identity#rolebindings-and-clusterrolebindings
 /roles-and-clusterroles   https://docs.microsoft.com/en-us/azure/aks/concepts-identity#roles-and-clusterroles
