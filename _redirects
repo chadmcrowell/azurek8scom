@@ -1,3 +1,4 @@
+/IMDS                     https://docs.microsoft.com/en-us/azure/virtual-machines/linux/instance-metadata-service?tabs=linux
 /nsg                      https://docs.microsoft.com/en-us/azure/aks/concepts-security#azure-network-security-groups
 /node-pool-upgrade        https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools#upgrade-a-node-pool
 /node-image-upgrade       https://docs.microsoft.com/en-us/azure/aks/node-image-upgrade
