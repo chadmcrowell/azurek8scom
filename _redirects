@@ -1,3 +1,4 @@
+/node-image-upgrade       https://docs.microsoft.com/en-us/azure/aks/node-image-upgrade
 /upgrade                  https://docs.microsoft.com/en-us/azure/aks/upgrade-cluster
 /limit-egress             https://docs.microsoft.com/en-us/azure/aks/limit-egress-traffic
 /http-app-routing         https://docs.microsoft.com/en-us/azure/aks/http-application-routing
