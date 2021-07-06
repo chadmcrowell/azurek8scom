@@ -1,3 +1,4 @@
+/rollout                   https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#updating-a-deployment
 /replicasets               https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
 /auto-upgrade              https://docs.microsoft.com/en-us/azure/aks/upgrade-cluster#set-auto-upgrade-channel
 /aad-pod-identity          https://docs.microsoft.com/en-us/azure/aks/use-azure-ad-pod-identity
