@@ -1,3 +1,4 @@
+/cluster-autoscale         https://docs.microsoft.com/en-us/azure/aks/cluster-autoscaler
 /max-surge                 https://docs.microsoft.com/en-us/azure/aks/upgrade-cluster#customize-node-surge-upgrade
 /set-image                 https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#updating-a-deployment
 /rollout                   https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#updating-a-deployment
