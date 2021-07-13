@@ -1,3 +1,4 @@
+/scrape-settings           https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-prometheus-integration#configure-and-deploy-configmaps
 /prometheus                https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-prometheus-integration
 /query-logs                https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-log-search
 /agent-config              https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-agent-config
