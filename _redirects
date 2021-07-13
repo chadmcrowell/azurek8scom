@@ -1,3 +1,4 @@
+/insights-agent            https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-manage-agent
 /insights-overview         https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-overview
 /built-in-metrics          https://docs.microsoft.com/en-us/azure/aks/view-metrics
 /insights                  https://github.com/chadmcrowell/azurek8scom#readme/pod-autoscale
