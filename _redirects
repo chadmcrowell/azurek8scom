@@ -1,3 +1,4 @@
+/insights-overview         https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-overview
 /built-in-metrics          https://docs.microsoft.com/en-us/azure/aks/view-metrics
 /insights                  https://github.com/chadmcrowell/azurek8scom#readme/pod-autoscale
 /pod-autoscale             https://docs.microsoft.com/en-us/azure/aks/concepts-scale
